@@ -1,0 +1,12 @@
+{'lab': 'AST',
+ 'min_peak2trough': 5,
+ 'min_peak_height': 150,
+ 'num_input_ids': 26595,
+ 'num_peaks': 5430,
+ 'num_traj_meeting_criteria': 2356,
+ 'peak_finding_mode': 'peak_to_trough',
+ 'prominence': 1,
+ 'screen_first_gap': True,
+ 'screen_long_tail': False,
+ 'screen_steady_state': True,
+ 'screen_steady_state_cutoff': 0.01}
