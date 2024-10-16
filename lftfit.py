@@ -1,4 +1,3 @@
-
 # FUNCTIONS
 
 def EXP_solve_baseline(Sth, Sh, d=1.132, mid_t=True):
